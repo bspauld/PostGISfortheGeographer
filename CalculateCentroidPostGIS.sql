@@ -3,9 +3,11 @@
 	Script: CalculateCentroidPostGIS.sql
 
 	Purpose: Using ST_Centroid, calculate the centroid of a selected polygon from a dataset.
-		 Script also returns the X - Longitude and Y - Longitude coordiante 	
+		 Script also returns the X - Longitude and Y - Longitude coordinate 	
 	
-		 For more detailed information about the buffer feature see - http://postgis.net/docs/ST_Centroid.html
+		 Script uses sample data from - https://github.com/bspauld/PostGISfortheGeographer
+	
+		 For more detailed information about ST_Centroid see - http://postgis.net/docs/ST_Centroid.html
 
 	Author: Ben Spaulding
 
