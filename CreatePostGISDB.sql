@@ -4,6 +4,7 @@
   Purpose: Create an empty Postgresql database that is spatially enabled when the
            create extension command is called for postgis and postgis_topology
 
+          For PostGIS documentation check out their docs - http://postgis.net/install/
 
   Author: Ben Spaulding
   
