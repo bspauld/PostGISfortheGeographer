@@ -21,4 +21,4 @@ select
   sov0name, 
   ST_Buffer(geom, 0.5) as buff 
 from public."Populated_Places"
-where sov0name like 'United States'
+where sov0name like 'United States';
