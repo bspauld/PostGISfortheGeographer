@@ -1,5 +1,5 @@
 
-<h1>PostGIS for the Geographer - Loading Data into PostGIS with QGIS
+<h2>PostGIS for the Geographer - Loading Data into PostGIS with QGIS</h2>
 
 Loading shapefile into PostGIS with QGIS is a fairly easy process. The following steps will outline this process.
 
