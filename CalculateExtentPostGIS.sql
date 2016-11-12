@@ -27,4 +27,4 @@ select
 	ST_YMAX(s.geom) as MaxLat
 from public."States_Provinces" s  
 where s.name_0 = 'United States of America' and s.name_1 = 'Massachusetts'
-group by s.name_0, s.geom,s.name_1
+group by s.name_0, s.geom,s.name_1;
