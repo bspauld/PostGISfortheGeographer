@@ -19,4 +19,4 @@ select
 	ST_difference(w.geom,s.geom) as difGeom
 from public."States_Provinces" s inner join public."World_Countries" w
 	on s.name_0 = w.admin
-where s.name_0 = 'United States of America' and s.name_1 = 'Massachusetts'
+where s.name_0 = 'United States of America' and s.name_1 = 'Massachusetts';
