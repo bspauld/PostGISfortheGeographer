@@ -1,7 +1,7 @@
-# PostGISfortheGeographer
-Series of simple example PostgreSQL/PostGIS scripts that geographers (or anyone) might find useful
+# PostGIS for the Geographer
+Series of simple example PostgreSQL/PostGIS scripts that geographers (or anyone) might find useful.
 
-New scripts will be added over the next couple weeks, with sample data is available below.
+New scripts will be added over the next couple weeks, that use sample data that is available below.
 
 All scripts and tables used here are based on the <a href="http://postgis.net/docs/using_postgis_dbmanagement.html#PostGIS_GeographyVSGeometry">GEOMETRY data type</a>
 
